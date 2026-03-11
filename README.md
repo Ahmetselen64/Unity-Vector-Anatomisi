@@ -2,8 +2,10 @@
 
 Bu proje, Unity oyun motorunda `Vector3` kütüphanesinin temel matematiksel ve fiziksel işlevlerini uygulamalı olarak göstermek amacıyla hazırlanmış bir eğitim ve test parkurudur. Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri (YBS) bölümü oyun programlama projesi kapsamında geliştirilmiştir.
 
-## 📹 Proje Tanıtım Videosu
-*(Videoyu buraya ekleyeceğiz, aşağıdaki talimatı oku)*
+## 📹 Proje Tanıtım Fotoğrafı
+   <img width="1903" height="831" alt="Ekran görüntüsü 2026-03-12 022342" src="https://github.com/user-attachments/assets/c1ce6165-419b-48c5-998c-b23bd1a89470" />
+         <img width="1901" height="828" alt="Ekran görüntüsü 2026-03-12 022328" src="https://github.com/user-attachments/assets/42b5232e-98fc-4a72-8004-a2873b448156" />
+          
 
 ---
 
@@ -29,3 +31,5 @@ Bu test parkuru, 4 farklı istasyondan oluşmaktadır. Her bir istasyon, oyun ge
 
 ---
 **Geliştirici:** Ahmet Selen
+**Öğrenci No:** 132430070
+**Bölüm:** Uludağ Üniversitesi - Yönetim Bilişim Sistemleri (YBS)
